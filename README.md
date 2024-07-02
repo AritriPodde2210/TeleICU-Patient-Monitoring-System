@@ -1,5 +1,5 @@
 # TeleICU Patient Monitoring System
-Welcome to the TeleICU Patient Monitoring System repository! Developed by Team Tensor Stars, this project leverages cutting-edge computer vision and machine learning technologies to enhance patient safety and streamline monitoring processes in ICU environments.
+Welcome to the TeleICU Patient Monitoring System repository! Developed by our Team Tensor Stars, this project leverages cutting-edge computer vision and machine learning technologies to enhance patient safety and streamline monitoring processes in ICU environments.
 
 📄 Introduction
 This project aims to develop a comprehensive system for motion detection and object detection in ICU videos. The primary objectives are:
