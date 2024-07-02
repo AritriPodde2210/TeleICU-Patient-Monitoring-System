@@ -46,12 +46,7 @@ Future work will focus on improving the models’ accuracy, expanding the datase
 
 
 🚀 Get Started
-Clone the Repository:
 
-
-Copy code
-git clone https://github.com/yourusername/TeleICU-PMS.git
-cd TeleICU-PMS
 Install Dependencies:
 
 
