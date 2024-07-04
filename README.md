@@ -78,10 +78,19 @@ The system integrates YOLOv8s for object detection and an LSTM model for motion 
 - API accessible via the local host server at `http://127.0.0.1:9000`.
  ## 📬 Access API Using Postman Software
 To access the API using Postman, follow these steps:
+### Using json
+Copy code
+{
+  "video_path": "path/to/your/video.mp4"
+}
+Send the Request:
+
+Click on Send to submit your request to the API.
+You should receive a response with the processed frames and video output.
 
 Install Postman:
 
-If you haven't already, download and install Postman from here.
+If you haven't already, download and install Postman from [here](https://www.postman.com/downloads/).
 Create a New Request:
 
 Open Postman and click on New to create a new HTTP request.
@@ -97,15 +106,7 @@ Set the Body:
 
 Click on the Body tab and select raw and JSON (application/json).
 Enter the JSON payload with the video data you want to process. For example:
-### Using json
-Copy code
-{
-  "video_path": "path/to/your/video.mp4"
-}
-Send the Request:
 
-Click on Send to submit your request to the API.
-You should receive a response with the processed frames and video output.
 For more details on using Postman, refer to the [Postman Documentation](https://learning.postman.com/docs/introduction/overview/).
 
 
