@@ -16,7 +16,9 @@ Requirements
 4.  [Tensorflow](https://www.tensorflow.org/api_docs)
 
 🎯 Features
+
 🖼 Object Detection
+
 Initialising Requirements
 High-performance computer with a powerful GPU.
 Essential software: Python, OpenCV, YOLOv8, and other libraries for image and video processing.
@@ -29,7 +31,9 @@ Annotated images using Roboflow, creating bounding boxes around objects of inter
 Split dataset into training (70%), validation (20%), and testing (10%).
 Created a data.yaml file for organized data access.
 Trained YOLOv8s model, achieving 80% accuracy in detecting and classifying objects in the ICU environment.
+
 🏃 Motion Detection
+
 Bounding Boxes and Motion Detection
 Detected motion by comparing differences between alternate frames using bounding boxes.
 Implemented proximity checks to identify critical scenarios where the patient’s condition might require immediate attention.
@@ -37,7 +41,9 @@ Model Accuracy
 Integrated an LSTM network to handle sequential data and capture temporal dependencies, improving motion detection accuracy.
 Output
 The model outputs the top 10 frames where motion is most likely to be detected, focusing on critical moments.
+
 🖥️ API Integration
+
 Combining Models
 Combined object detection and motion detection models into a single API for simultaneous processing.
 API Functionalities
@@ -48,7 +54,7 @@ Server Access
 API accessible via the local host server at http://127.0.0.1:9000.
 
 Output:
-[Output](https://github.com/AmanStarLitePro/TeleICU-Patient-Monitoring-System/blob/main/Evaluation_Of_Results/results.png)
+
 
 
 🏁 Conclusion
