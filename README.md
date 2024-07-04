@@ -92,7 +92,10 @@ Future work will focus on improving the models’ accuracy, expanding the datase
 
 ```sh
 pip install -r requirements.txt
-**Run the API**
+
+## Run the API:
 ```sh
 python api.py
+
+Thank you for checking out our project! If you have any questions or feedback, feel free to reach out to us.
 
