@@ -8,6 +8,13 @@ Detect the presence of various objects.
 Identify motion patterns, particularly focusing on scenarios where the patient is either alone or accompanied by family members.
 The system integrates YOLOv8s for object detection and an LSTM model for motion detection, providing a robust solution for ICU monitoring.
 
+Requirements
+##documentation
+1. [Ultralytics](https://docs.ultralytics.com/)
+2. [OpenCV](https://docs.opencv.org/4.x/)
+3. [Numpy](https://numpy.org/doc/)
+4.  [Tensorflow](https://www.tensorflow.org/api_docs)
+
 🎯 Features
 🖼 Object Detection
 Initialising Requirements
@@ -39,6 +46,11 @@ Upload: Allows direct video upload and outputs the results.
 Process: Accessible using POSTMAN software with a JSON request, returning detected frames and the output video.
 Server Access
 API accessible via the local host server at http://127.0.0.1:9000.
+
+Output:
+[Output](https://github.com/AmanStarLitePro/TeleICU-Patient-Monitoring-System/blob/main/Evaluation_Of_Results/results.png)
+
+
 🏁 Conclusion
 This project outlines the steps taken to develop and integrate a motion detection and object detection system for ICU videos. The combination of YOLOv8s and LSTM models has provided a robust solution for the project's objectives. The API integration further enhances usability, making it easier to deploy and utilize the system in real-world scenarios.
 
