@@ -13,11 +13,11 @@ Requirements
 1. [Ultralytics](https://docs.ultralytics.com/)
 2. [OpenCV](https://docs.opencv.org/4.x/)
 3. [Numpy](https://numpy.org/doc/)
-4.  [Tensorflow](https://www.tensorflow.org/api_docs)
+4. [Tensorflow](https://www.tensorflow.org/api_docs)
 
 ##DEMO VIDEO
 
-![output](https://github.com/AritriPodde2210/TeleICU-Patient-Monitoring-System/assets/123970201/4fd1526b-b4e5-46de-901f-51a98cf9818f)
+![demo](https://github.com/AritriPodde2210/TeleICU-Patient-Monitoring-System/assets/123970201/4fd1526b-b4e5-46de-901f-51a98cf9818f)
 
 
 🎯 Features
@@ -59,7 +59,9 @@ Server Access
 API accessible via the local host server at http://127.0.0.1:9000.
 
 Output:
-[Evaluation Result](https://github.com/AmanStarLitePro/TeleICU-Patient-Monitoring-System/blob/main/Evaluation_Of_Results/results.png)
+![Output](C:\Users\guddi\OneDrive\Documents\output.jpeg)
+##Project Report
+[Report]("C:\Users\guddi\OneDrive\Documents\Project_Report.pdf")
 
 
 
