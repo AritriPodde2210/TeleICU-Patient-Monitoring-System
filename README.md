@@ -61,7 +61,7 @@ API accessible via the local host server at http://127.0.0.1:9000.
 Output:
 ![Output](C:\Users\guddi\OneDrive\Documents\output.jpeg)
 ##Project Report
-[Report]("C:\Users\guddi\OneDrive\Documents\Project_Report.pdf")
+![Report]("C:\Users\guddi\OneDrive\Documents\Project_Report.pdf")
 
 
 
