@@ -16,7 +16,7 @@ Requirements
 4.  [Tensorflow](https://www.tensorflow.org/api_docs)
 
 ##DEMO VIDEO
-[demovideo](https://github.com/AmanStarLitePro/TeleICU-Patient-Monitoring-System/blob/main/Sample%20Output/output_video.mp4)
+
 ![output](https://github.com/AritriPodde2210/TeleICU-Patient-Monitoring-System/assets/123970201/4fd1526b-b4e5-46de-901f-51a98cf9818f)
 
 
