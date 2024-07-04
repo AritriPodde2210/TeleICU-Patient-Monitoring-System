@@ -15,9 +15,13 @@ Requirements
 3. [Numpy](https://numpy.org/doc/)
 4. [Tensorflow](https://www.tensorflow.org/api_docs)
 
-##DEMO VIDEO
+# DEMO VIDEO
 
 ![demo](https://github.com/AritriPodde2210/TeleICU-Patient-Monitoring-System/assets/123970201/4fd1526b-b4e5-46de-901f-51a98cf9818f)
+
+# Preprocessing
+![preprocessing](https://github.com/AritriPodde2210/TeleICU-Patient-Monitoring-System/assets/123970201/2a31e784-deb7-411c-a15a-beb4e1d2e474)
+
 
 
 🎯 Features
@@ -59,9 +63,12 @@ Server Access
 API accessible via the local host server at http://127.0.0.1:9000.
 
 Output:
-![Output](C:\Users\guddi\OneDrive\Documents\output.jpeg)
+![output](https://github.com/AritriPodde2210/TeleICU-Patient-Monitoring-System/assets/123970201/819a41cb-b4d0-45fe-9d5a-ea6ebfd87f3e)
+
+
 ##Project Report
-![Report]("C:\Users\guddi\OneDrive\Documents\Project_Report.pdf")
+[Project_Report.pdf](https://github.com/user-attachments/files/16093663/Project_Report.pdf)
+
 
 
 
