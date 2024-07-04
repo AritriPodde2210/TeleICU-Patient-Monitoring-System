@@ -94,7 +94,8 @@ Future work will focus on improving the models’ accuracy, expanding the datase
 pip install -r requirements.txt
 python api.py
 
-Access the API:
+ Access the API:
 Open your browser and go to http://127.0.0.1:9000.
-__________________________________________________________________________________________________________________________________________________________________
+
 Thank you for checking out our project! If you have any questions or feedback, feel free to reach out to us.
+
