@@ -97,7 +97,7 @@ Set the Body:
 
 Click on the Body tab and select raw and JSON (application/json).
 Enter the JSON payload with the video data you want to process. For example:
-json
+### Using json
 Copy code
 {
   "video_path": "path/to/your/video.mp4"
@@ -106,7 +106,7 @@ Send the Request:
 
 Click on Send to submit your request to the API.
 You should receive a response with the processed frames and video output.
-For more details on using Postman, refer to the Postman Documentation.
+For more details on using Postman, refer to the [Postman Documentation](https://learning.postman.com/docs/introduction/overview/).
 
 
 
