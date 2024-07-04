@@ -81,6 +81,18 @@ The system integrates YOLOv8s for object detection and an LSTM model for motion 
 ## 📝 Project Report
 [Project_Report.pdf](https://github.com/user-attachments/files/16093663/Project_Report.pdf)
 
+## 🌟 Team Members and Contribution
+
+Meet the individuals behind **Team Tensor Stars** who contributed to this project:
+
+
+- **Aman Kumar Srivastava** - Object detection,Motion detection,API integration
+- **Aritri Podder** - Documentation , Report Writing and Research
+- **Md ALsaifi** - Video Collection and Preprocessing
+
+
+
+
 ## 🏁 Conclusion
 This project outlines the steps taken to develop and integrate a motion detection and object detection system for ICU videos. The combination of YOLOv8s and LSTM models has provided a robust solution for the project's objectives. The API integration further enhances usability, making it easier to deploy and utilize the system in real-world scenarios.
 
@@ -94,7 +106,7 @@ Future work will focus on improving the models’ accuracy, expanding the datase
 pip install -r requirements.txt
 python api.py
 
- Access the API:
+## Access the API:
 Open your browser and go to http://127.0.0.1:9000.
 
 Thank you for checking out our project! If you have any questions or feedback, feel free to reach out to us.
