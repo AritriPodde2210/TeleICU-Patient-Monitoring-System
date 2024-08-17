@@ -123,7 +123,7 @@ Meet the individuals behind **Team Tensor Stars** who contributed to this projec
 
 - **Md Alsaifi** - Team Lead,Video Collection and Preprocessing
 - **Aman Kumar Srivastava** - Object detection,Motion detection,API integration
-- **Aritri Podder** - Documentation , Report Writing and Research
+- **Aritri Podder** - Documentation , Report Writing , Research,Model Workflow
 
 
 
